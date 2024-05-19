@@ -1,0 +1,10 @@
+C:\Users\51946\Desktop\SEMANA-7\Formulario3\Formulario3\bin\Debug\Formulario3.exe.config
+C:\Users\51946\Desktop\SEMANA-7\Formulario3\Formulario3\bin\Debug\Formulario3.exe
+C:\Users\51946\Desktop\SEMANA-7\Formulario3\Formulario3\bin\Debug\Formulario3.pdb
+C:\Users\51946\Desktop\SEMANA-7\Formulario3\Formulario3\obj\Debug\Formulario3.csproj.AssemblyReference.cache
+C:\Users\51946\Desktop\SEMANA-7\Formulario3\Formulario3\obj\Debug\Formulario3.Form1.resources
+C:\Users\51946\Desktop\SEMANA-7\Formulario3\Formulario3\obj\Debug\Formulario3.Properties.Resources.resources
+C:\Users\51946\Desktop\SEMANA-7\Formulario3\Formulario3\obj\Debug\Formulario3.csproj.GenerateResource.cache
+C:\Users\51946\Desktop\SEMANA-7\Formulario3\Formulario3\obj\Debug\Formulario3.csproj.CoreCompileInputs.cache
+C:\Users\51946\Desktop\SEMANA-7\Formulario3\Formulario3\obj\Debug\Formulario3.exe
+C:\Users\51946\Desktop\SEMANA-7\Formulario3\Formulario3\obj\Debug\Formulario3.pdb
